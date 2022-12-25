@@ -1,0 +1,100 @@
+{
+  "id": "2763309",
+  "name": "bank",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "145491",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "278744",
+      "name": "下箭头",
+      "font_class": "xiajiantou",
+      "unicode": "e6cc",
+      "unicode_decimal": 59084
+    },
+    {
+      "icon_id": "1422707",
+      "name": "保存",
+      "font_class": "baocun",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "5162894",
+      "name": "上传附件",
+      "font_class": "shangchuanfujian",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "7312337",
+      "name": "add",
+      "font_class": "add",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "8106217",
+      "name": "delete",
+      "font_class": "delete",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "8106219",
+      "name": "edit",
+      "font_class": "edit",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "22607995",
+      "name": "暂无数据",
+      "font_class": "zanwushuju",
+      "unicode": "e87d",
+      "unicode_decimal": 59517
+    },
+    {
+      "icon_id": "1019482",
+      "name": " new",
+      "font_class": "new",
+      "unicode": "e6e3",
+      "unicode_decimal": 59107
+    },
+    {
+      "icon_id": "19674552",
+      "name": "下箭头",
+      "font_class": "down-circle-fill",
+      "unicode": "eb22",
+      "unicode_decimal": 60194
+    },
+    {
+      "icon_id": "19674528",
+      "name": "右箭头",
+      "font_class": "caret-right",
+      "unicode": "eb21",
+      "unicode_decimal": 60193
+    },
+    {
+      "icon_id": "12103679",
+      "name": "用户设置，个人设置",
+      "font_class": "huabanfuben",
+      "unicode": "eb86",
+      "unicode_decimal": 60294
+    },
+    {
+      "icon_id": "22386406",
+      "name": "文件管理",
+      "font_class": "wenjianguanli",
+      "unicode": "ee29",
+      "unicode_decimal": 60969
+    }
+  ]
+}
